@@ -1,0 +1,79 @@
+/* External CSS file for overall styling */
+
+/* General styles */
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+/* Header styling */
+header {
+  background-color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+.header {
+  color: #fff;
+}
+
+/* Introduction section */
+.introduction {
+  background-color: #f0f0f0;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.introduction p {
+  margin-bottom: 10px;
+}
+
+/* Skills section */
+.skills {
+  background-color: #eee;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.skill-list {
+  list-style: none;
+  padding: 0;
+}
+
+.skill-list li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Contact section */
+.contact {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.contact ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.contact ul li {
+  margin-bottom: 10px;
+}
+
+.contact ul li a {
+  color: #fff;
+  text-decoration: none;
+}
